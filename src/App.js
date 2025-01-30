@@ -137,7 +137,7 @@ function Box({children}) {
     </div>
   )
 }
-
+""
 function MovieList({movies}) {
 
   return (
